@@ -12,9 +12,9 @@ This repository serves as a demonstration of implementing the Intersection Obser
 
 ## Getting Started
 
-### Clone the repository:
-### Open index.html in your preferred web browser.
-### Scroll down to experience the infinite scrolling effect.
+- ### Clone the repository:
+- ### Open index.html in your preferred web browser.
+- ### Scroll down to experience the infinite scrolling effect.
 
 ## Usage
 Feel free to incorporate the Intersection Observer logic into your own projects. You can customize the threshold, handle loading additional content, and adapt the code to fit your specific requirements.
